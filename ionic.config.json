@@ -1,0 +1,7 @@
+{
+  "name": "ejsc21",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
